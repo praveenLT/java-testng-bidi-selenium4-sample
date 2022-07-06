@@ -1,4 +1,4 @@
-# Java TestNG Selenium 
+# How to utilise Bidirectional protocol (BiDi) for automation test in Java-testng on Lambdatest
 
 ### Environment Setup
 
